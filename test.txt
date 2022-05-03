@@ -1,6 +1,3 @@
 
-Asdmfs
-mcvksdmf
-asldmgksd
-fd
+welcome to happy home
 this my frist project of git
